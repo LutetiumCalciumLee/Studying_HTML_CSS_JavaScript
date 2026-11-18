@@ -25,7 +25,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 9장. 자바스크립트 이벤트와 이벤트 리스너
