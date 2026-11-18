@@ -29,7 +29,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 3장. HTML5 문서 구조화와 웹 폼
