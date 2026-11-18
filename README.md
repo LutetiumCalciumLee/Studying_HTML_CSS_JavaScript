@@ -49,7 +49,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 2장. HTML5 기본 문서 내용
