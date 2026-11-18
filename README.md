@@ -39,7 +39,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 4장. CSS3를 이용한 웹 페이지 스타일링
