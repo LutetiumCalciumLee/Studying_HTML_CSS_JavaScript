@@ -26,7 +26,7 @@ This repository contains my notes and code from studying HTML, CSS, and JavaScri
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 웹프로그래밍
