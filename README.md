@@ -21,7 +21,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 10장. 자바스크립트 BOM (Browser Object Model)
