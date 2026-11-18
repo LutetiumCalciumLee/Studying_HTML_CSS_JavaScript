@@ -41,7 +41,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 7장. 자바스크립트 핵심 객체와 배열(1)
